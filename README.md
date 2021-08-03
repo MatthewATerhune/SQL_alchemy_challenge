@@ -30,6 +30,8 @@ Plot the results using the DataFrame plot method.
 
 Use Pandas to print the summary statistics for the precipitation data.
 
+![plot](./images/precipitation.png)
+
 Station Analysis--
 
 Design a query to calculate the total number of stations in the dataset.
@@ -52,7 +54,7 @@ Query the last 12 months of temperature observation data for this station.
 Plot the results as a histogram with bins=12.
 Close out your session.
 
-
+![plot](./images/station-histogram.png)
 
 Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
